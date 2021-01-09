@@ -274,6 +274,13 @@ a {
     .main-nav .nav-menu a {
         color: #000;
     }
+    
+    .carbon .btn {
+        margin-top: px;
+    }
+    .carbon .content {
+        width: 100%;
+    }
 }
 
 
